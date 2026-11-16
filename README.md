@@ -7,7 +7,7 @@ End-to-end modern data engineering platform demonstrating version control, ELT d
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 freshcart-pipelines/
