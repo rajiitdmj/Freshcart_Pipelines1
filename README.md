@@ -1,4 +1,4 @@
-# FreshCart Data Engineering Pipelines: From Git to Gold
+# FreshCart Data Engineering Pipelines
 
 - **Name:** Raj Kumar
 - **Roll Number:** 26pcso04
