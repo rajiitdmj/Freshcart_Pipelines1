@@ -3,6 +3,7 @@
 - **Name:** Raj Kumar
 - **Roll Number:** 26pcso04
 - **GitHub Repository:** [(https://github.com/rajiitdmj/Freshcart_Pipelines1)]
+- 
 End-to-end modern data engineering platform demonstrating version control, ELT data warehousing on Snowflake, orchestrated machine learning pipelines with Mage, and real-time event streaming using RabbitMQ topic exchanges.
 
 ---
