@@ -41,7 +41,7 @@ freshcart-pipelines/
 
 ---
 
-## 🚀 Quickstart Guide
+##  Quickstart Guide
 
 ### 1. Environment Setup
 ```bash
@@ -94,7 +94,7 @@ python stream/lakehouse_consumer.py
 
 ---
 
-## 📊 Summary of Assignment Parts
+##  Summary of Assignment Parts
 
 - **Part A (Git & CI/CD)**: Four-box Git architecture, git command lifecycle, automated GitHub Actions workflow verifying test gates on push.
 - **Part B (FreshCart ELT on Snowflake)**: Medallion architecture (Bronze raw VARIANT → Silver cleaned/deduplicated → Gold business metrics), SCD Type 2 dimension tracking, currency conversion, quarantine error handling, and strict idempotency via `row_hash` + `MERGE`.
