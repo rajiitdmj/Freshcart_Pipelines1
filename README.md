@@ -45,9 +45,6 @@ freshcart-pipelines/
 
 ### 1. Environment Setup
 ```bash
-# Clone the repository
-git clone https://github.com/d2e-iiitdm/freshcart-pipelines.git
-cd freshcart-pipelines
 
 # Create and activate virtual environment
 python -m venv venv
